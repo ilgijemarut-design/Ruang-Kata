@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ruang Kata adalah ruang untuk puisi, artikel, dan esai.">
+  <title>Ruang Kata — Ruang Gagasan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <a class="logo" href="#beranda">ruang<span>kata.</span></a>
+    <nav>
+      <a href="#beranda">Beranda</a>
+      <a href="#karya">Karya</a>
+      <a href="#tentang">Tentang Penulis</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="beranda">
+      <p class="eyebrow">SASTRA · GAGASAN · REFLEKSI</p>
+      <h1>Setiap kata punya<br><em>tempat untuk pulang.</em></h1>
+      <p class="hero-text">
+        Sebuah ruang untuk merawat pikiran,
+        menuliskan perasaan, dan berbagi gagasan.
+      </p>
+      <a class="button" href="#karya">Jelajahi tulisan ↓</a>
+    </section>
+
+    <section class="works" id="karya">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">RUANG BACA</p>
+          <h2>Jelajahi tulisan</h2>
+        </div>
+        <span id="result-count"></span>
+      </div>
+
+      <label class="search-box">
+        <span>⌕</span>
+        <input id="search" type="search"
+          placeholder="Cari judul atau isi tulisan...">
+      </label>
+
+      <div class="categories" id="categories">
+        <button class="category active" data-category="Semua">Semua</button>
+        <button class="category" data-category="Puisi">Puisi</button>
+        <button class="category" data-category="Artikel">Artikel</button>
+        <button class="category" data-category="Esai">Esai</button>
+      </div>
+
+      <div class="post-grid" id="post-grid"></div>
+
+      <p id="empty-message" hidden>
+        Belum ada tulisan yang cocok dengan pencarianmu.
+      </p>
+    </section>
+
+    <section class="about" id="tentang">
+      <div class="about-mark">RK.</div>
+      <div>
+        <p class="eyebrow">DI BALIK TULISAN</p>
+        <h2>Tentang Penulis</h2>
+        <p>
+          Saya adalah penulis yang tertarik pada sastra,
+          filsafat, dan pengalaman manusia. Ruang Kata
+          menjadi tempat untuk membagikan karya dan pemikiran.
+        </p>
+        <p class="author-name">Nama Penulis · Penulis</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <a class="logo" href="#beranda">ruang<span>kata.</span></a>
+    <p>Merawat kata, merayakan makna.</p>
+    <p>© <span id="year"></span> Ruang Kata</p>
+  </footer>
+
+  <dialog id="reader">
+    <button class="close-reader" id="close-reader"
+      aria-label="Tutup tulisan">×</button>
+    <article id="article-content"></article>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>
