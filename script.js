@@ -2,8 +2,6 @@
 const posts = [
   {
    
-const posts = [
-  {
     id: 1,
     title: "Keresahan Suci",
     category: "Puisi",
