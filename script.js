@@ -254,7 +254,7 @@ awan yang menaungi agar aku tak kepanasan saat bekerja.`
       <li>Hans Jonas, <em>The Phenomenon of Life</em> (New York: Harper & Row, 1996), hlm. 100–102.</li>
     </ol>
   `
-}
+},
 
 ];
 
