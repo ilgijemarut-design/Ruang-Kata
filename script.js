@@ -217,7 +217,7 @@ Aku bisa mengabulkan keinginanmu,
 Katakan apa yang akan kau minta,
 jika kau adalah sang ajaib, maka aku meminta sebuah awan,
 awan yang menaungi agar aku tak kepanasan saat bekerja.`
-  }
+  },
   
 {
   title: "Kebisingan Dunia Teknokratis: Ketika Manusia Tidak Lagi Mendengar (Perspektif Hans Jonas)",
@@ -254,7 +254,7 @@ awan yang menaungi agar aku tak kepanasan saat bekerja.`
       <li>Hans Jonas, <em>The Phenomenon of Life</em> (New York: Harper & Row, 1996), hlm. 100–102.</li>
     </ol>
   `
-},
+}
 
 ];
 
