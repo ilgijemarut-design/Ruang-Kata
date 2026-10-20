@@ -218,43 +218,62 @@ Katakan apa yang akan kau minta,
 jika kau adalah sang ajaib, maka aku meminta sebuah awan,
 awan yang menaungi agar aku tak kepanasan saat bekerja.`
   },
-  
 {
+  id: 13,
   title: "Kebisingan Dunia Teknokratis: Ketika Manusia Tidak Lagi Mendengar (Perspektif Hans Jonas)",
-  author: "Suprinus Pasi",
   category: "Opini",
   date: "20-10-2026",
+  excerpt: "Refleksi filosofis tentang paradigma teknokratis, tanggung jawab teknologi menurut Hans Jonas, dan pentingnya keheningan dalam formasi calon imam.",
   content: `
-    <p>Dunia sekarang tidak lagi kekurangan informasi, tetapi kekurangan keheningan. Inilah yang disebut Paus Fransiskus sebagai paradigma teknokratis atau sebuah cara pandang yang percaya bahwa setiap masalah hidup bisa diselesaikan dengan teknologi, efisiensi dan kecepatan. Dunia teknologi tidak berisik karena mesinnya keras, tetapi karena ia tidak pernah berhenti berbunyi.</p>
+    <p><strong>Oleh: Suprinus Pasi</strong></p>
 
-    <p>Hans Jonas, seorang filsuf Jerman-Yahudi, telah memandang masalah ini sebelum Paus Fransiskus meramalkan dunia yang penuh dengan kebisingan teknologi. Hans Jonas menyebut teknologi modern memiliki imperatif tak terhentikan. Teknologi tidak pernah bertanya, “Apakah kita harus melakukannya?” Ia hanya bertanya apakah kita bisa melakukannya lebih cepat. Akibatnya, hidup manusia dipenuhi aktivitas konstan seperti notifikasi, pembaruan, tren, dan algoritma yang selalu memaksa kita untuk terhubung, selalu merespons, selalu hadir secara virtual, tetapi tidak pernah hadir secara utuh. Jika kebisingan teknologi ini dihubungkan dengan formasi calon imam, akan muncul beberapa ciri teknologi yang merusak.</p>
+    <p>Dunia sekarang tidak lagi kekurangan informasi, tetapi kekurangan keheningan. Inilah yang disebut Paus Fransiskus sebagai paradigma teknokratis, yaitu sebuah cara pandang yang percaya bahwa setiap masalah hidup bisa diselesaikan dengan teknologi, efisiensi, dan kecepatan.<sup><a href="#catatan-1">[1]</a></sup> Dunia teknologi tidak berisik karena mesinnya keras, tetapi karena ia tidak pernah berhenti berbunyi.</p>
+
+    <p>Hans Jonas, seorang filsuf Jerman-Yahudi, telah memandang persoalan teknologi modern dan tanggung jawab manusia. Teknologi tidak hanya menghadirkan kemudahan, tetapi juga menuntut manusia untuk mempertanyakan batas moral dari setiap tindakannya. Akibatnya, hidup manusia dipenuhi aktivitas konstan seperti notifikasi, pembaruan, tren, dan algoritma yang seolah memaksa kita untuk terus terhubung dan selalu merespons.</p>
 
     <h3>Pertama: Kebisingan yang Membuat Tuli</h3>
 
-    <p>Dalam dunia teknokratis, yang paling keras sering dianggap paling benar. Algoritma TikTok, Instagram, dan YouTube dirancang untuk memberikan apa yang paling memicu reaksi emosional, bukan selalu apa yang paling benar. Tanpa disadari, calon imam yang hidup di dalamnya perlahan akan tuli: tuli terhadap suara tubuhnya sendiri yang lelah, tuli terhadap suara saudara komunitas yang terluka, dan tuli terhadap suara Allah. Jonas menyebut ini sebagai alienasi dari keheningan. Manusia teknokratis kehilangan kemampuan untuk mendengarkan karena ia hanya dilatih untuk merespons. Padahal, yang diperlukan dalam panggilan seorang calon imam adalah mendengarkan dan mewartakan Sabda Tuhan, bukan terus-menerus merespons notifikasi.</p>
+    <p>Dalam dunia teknokratis, sesuatu yang paling keras sering kali dianggap paling benar. Algoritma TikTok, Instagram, dan YouTube dapat mendorong konten yang memicu emosi agar pengguna terus terlibat. Tanpa disadari, calon imam yang hidup di dalamnya perlahan dapat menjadi tuli: tuli terhadap tubuhnya sendiri yang lelah, tuli terhadap saudara komunitas yang terluka, dan tuli terhadap suara Allah.</p>
+
+    <p>Manusia yang terus-menerus dituntut untuk merespons berisiko kehilangan kemampuan untuk mendengarkan secara mendalam. Padahal, dalam panggilan seorang calon imam, mendengarkan merupakan bagian penting dari kehidupan rohani. Tugasnya bukan sekadar merespons notifikasi, melainkan mendengarkan dan mewartakan Sabda Tuhan.</p>
 
     <h3>Kedua: Kebisingan yang Membuat Terfragmentasi (Perpecahan)</h3>
 
-    <p>Paradigma teknokratis percaya bahwa hidup bisa dipecah-pecah menjadi masalah kecil yang dapat diselesaikan dengan aplikasi. Masalah doa yang kering? Ada aplikasi doa. Masalah kesepian? Ada AI teman ngobrol. Masalah pastoral? Ada templat khotbah dari ChatGPT. Masalah dan jawaban yang diperoleh dengan mudah melalui teknologi membuat hidup manusia menjadi terpotong-potong dan tidak utuh. Paus Fransiskus dalam Laudato Si’ menyebut persoalan ini sebagai fragmentasi pengetahuan, ketika teknologi memecah realitas menjadi kepingan data, tetapi kehilangan kebijaksanaan untuk merangkainya kembali menjadi makna. Calon imam yang hidup dalam kebisingan ini bisa sangat produktif secara digital, tetapi sangat kering secara eksistensial. Ia tahu banyak, tetapi tidak bijaksana.</p>
+    <p>Paradigma teknokratis cenderung memandang kehidupan sebagai kumpulan masalah kecil yang dapat diselesaikan melalui aplikasi. Masalah doa yang terasa kering? Ada aplikasi doa. Masalah kesepian? Ada AI untuk teman berbicara. Masalah pastoral? Ada templat khotbah dari ChatGPT.</p>
+
+    <p>Teknologi dapat membantu manusia, tetapi jika digunakan tanpa refleksi, kehidupan berisiko menjadi terpotong-potong dan kehilangan keutuhannya. Dalam Laudato Si', Paus Fransiskus mengkritik paradigma teknokratis yang membuat manusia sulit memahami hubungan antara berbagai persoalan dan keseluruhan realitas.</p>
+
+    <p>Calon imam yang hidup dalam kebisingan ini bisa sangat produktif secara digital, tetapi kering secara eksistensial. Ia mungkin mengetahui banyak hal, tetapi pengetahuan tersebut belum tentu berkembang menjadi kebijaksanaan.</p>
 
     <h3>Ketiga: Kebisingan yang Membuat Tidak Bertanggung Jawab</h3>
 
-    <p>Kebisingan teknokratis menciptakan ilusi bahwa kita mahakuasa. Kita bisa mengontrol segalanya dari layar, padahal Jonas mengingatkan bahwa semakin besar kekuasaan teknologi, semakin besar pula tanggung jawab yang harus dipikul dan semakin besar keheningan yang dibutuhkan untuk memikulnya. Dunia yang bising membuat calon imam lari dari tanggung jawab yang sunyi, seperti menanggung kebosanan, kesepian, dan kekosongan tanpa harus mengisinya dengan terus menggulir layar. Dalam tradisi monastik, kebosanan (acedia) dapat menjadi guru rohani yang jujur. Dari kebosananlah manusia berhadapan dengan dirinya yang sebenarnya.</p>
+    <p>Kebisingan teknokratis dapat menciptakan ilusi bahwa manusia mampu mengontrol segalanya melalui layar. Padahal, Hans Jonas mengingatkan bahwa semakin besar kekuasaan teknologi, semakin besar pula tanggung jawab moral yang harus dipikul manusia.<sup><a href="#catatan-2">[2]</a></sup></p>
 
-    <h3>Kebisingan Teknologi Harus Dilawan, Bukan Dinikmati</h3>
+    <p>Dunia yang bising dapat membuat calon imam menghindari tanggung jawab untuk berhadapan dengan kesunyian, kebosanan, kesepian, dan kekosongan batin. Semua itu seolah harus segera diisi dengan aktivitas, hiburan, atau kebiasaan menggulir layar tanpa henti.</p>
 
-    <p>Maka, kita sebagai calon imam harus melawan kebisingan teknokratis bukan dengan bersikap antiteknologi, melainkan dengan merebut kembali hak untuk hening. Jonas menawarkan heuristik ketakutan. Gagasan ini perlu dihayati dan diterapkan oleh setiap calon imam supaya mampu mengakses teknologi sesuai kebutuhan, bukan sekadar keinginan yang dapat mengakibatkan kehancuran atau perpecahan dalam diri sendiri. Kita sebagai calon imam juga harus waspada ketika dunia tidak lagi memiliki keheningan, ketika semua imam hanya menjadi operator teknologi yang berisik. Patut kita pertanyakan: apakah dunia semacam itu akan menjadikan Sabda tetap menjadi daging, atau Sabda hanya menjadi konten?</p>
+    <p>Dalam tradisi monastik, pengalaman kelesuan rohani yang dikenal sebagai acedia dapat menjadi kesempatan untuk memeriksa diri. Manusia diajak menghadapi dirinya secara jujur, bukan sekadar melarikan diri dari ketidaknyamanan.</p>
 
-    <p>Kita sebagai calon imam harus memegang prinsip bahwa tugas calon imam pada zaman sekarang bukan menambah kebisingan dengan khotbah-khotbah yang viral, melainkan menjaga satu petak keheningan terakhir di dunia agar kita mampu mendengarkan suara Tuhan.</p>
+    <h3>Kebisingan Teknologi Harus Dilawan, Bukan Dinikmati Tanpa Batas</h3>
+
+    <p>Calon imam harus melawan kebisingan teknokratis bukan dengan bersikap antiteknologi, melainkan dengan merebut kembali ruang untuk hening. Hans Jonas menawarkan gagasan heuristik ketakutan, yaitu pendekatan yang mengajak manusia mempertimbangkan kemungkinan dampak buruk dari tindakannya agar dapat bertindak secara bertanggung jawab.</p>
+
+    <p>Gagasan ini perlu menjadi bahan refleksi bagi setiap calon imam agar mampu menggunakan teknologi sesuai kebutuhan dan pertimbangan moral, bukan sekadar mengikuti keinginan yang berpotensi merusak kehidupan batin atau memecah keutuhan dirinya.</p>
+
+    <p>Calon imam perlu merasa prihatin apabila dunia kehilangan keheningan dan para pelayan Gereja hanya menjadi operator teknologi yang terus menghasilkan kebisingan. Patut dipertanyakan: apakah dunia semacam itu akan menjadikan Sabda tetap menjadi daging, atau justru menjadikan Sabda sekadar konten?</p>
+
+    <p>Calon imam zaman sekarang bukan bertugas menambah kebisingan dengan khotbah-khotbah yang sekadar viral, melainkan menjaga ruang keheningan di tengah dunia agar manusia tetap mampu mendengarkan suara Tuhan.</p>
+
+    <hr>
 
     <h3>Catatan Kaki</h3>
+
     <ol>
-      <li>Paus Fransiskus, <em>Laudato Si’: Ensiklik tentang Perawatan Rumah Bersama</em> (2015), no. 106–114.</li>
-      <li>Hans Jonas, <em>The Imperative of Responsibility</em> (Chicago Press, 1984), hlm. 18–22.</li>
+      <li id="catatan-1">Paus Fransiskus, <em>Laudato Si': Ensiklik tentang Perawatan Rumah Bersama</em> (2015), no. 106–114.</li>
+      <li id="catatan-2">Hans Jonas, <em>The Imperative of Responsibility</em> (University of Chicago Press, 1984), hlm. 18–22.</li>
       <li>Hans Jonas, <em>The Phenomenon of Life</em> (New York: Harper & Row, 1996), hlm. 100–102.</li>
     </ol>
   `
-}
+},
 
 ];
 
